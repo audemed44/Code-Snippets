@@ -1,4 +1,4 @@
-#Bubble Sort
+# Bubble Sort
 
 Write a method that takes in an array of ints and uses the Bubble Sort algorithm to sort the array 'in place' in ascending order. The method should return the same, in-place sorted array.
 
